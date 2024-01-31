@@ -1,1 +1,3 @@
-# learning-git
+# Learning-git
+
+Its time to learn git.
